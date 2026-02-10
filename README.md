@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- Stats and Top Languages side-by-side -->
+<div align="center">
+  <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Zyrelo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Zyrelo&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=340" />
+</div>
 
-<!--
-**Zyrelo/Zyrelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
